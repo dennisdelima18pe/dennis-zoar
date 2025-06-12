@@ -139,7 +139,7 @@ function Historia() {
     Desde 27 de Dezembro de 2023
    </p>
     
-    <p>
+   <p>
     Você me completa de um jeito que ninguém mais consegue.
 Traz alegria aos meus dias, razão para continuar, e motivos para sorrir mesmo nos momentos difíceis.
 Você é, sem dúvida, a melhor coisa que me aconteceu.
@@ -147,6 +147,7 @@ Sou cada dia mais louco por você, e meu amor só cresce com o tempo.
 Te amo, ontem, hoje e sempre.
     </p>  
     <h2> Te amo </h2>
+
     </div>
   )
 }

@@ -5,7 +5,6 @@
   padding: 0;
 }
 body {
-  background-color: blue;
   width: 100vw;
   height: 100vh;
 }
@@ -50,11 +49,12 @@ body {
 }
 
 #titulo-nossa-historia {
+
   color:#d32f2f;
   text-align: center;
   font-weight:700;
   font-size: 32px;
-  padding-top: 24px;
+  padding-top: 250px;
   font-family: Serif;
 }
 .carousel {
