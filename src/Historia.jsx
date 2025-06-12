@@ -34,7 +34,6 @@ function TimeDifference({ fromDate }) {
 function Historia() {
   const images = [
     '/assets/foto-1.jpeg',
-    './assets/foto-2.jpeg',
     './assets/foto-3.jpeg',
     './assets/foto-4.jpeg',
     './assets/foto-5.jpeg',
