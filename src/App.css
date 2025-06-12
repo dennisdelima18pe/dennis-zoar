@@ -35,6 +35,10 @@
 #tela-nossa-historia {
   width:100vw;
   height: 100dvh;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: scroll; /* importante no iOS */
   background-image: url("./assets/background.jpg");
   background-size: cover;
   background-position: center;
