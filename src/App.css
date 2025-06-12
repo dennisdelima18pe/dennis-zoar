@@ -15,6 +15,7 @@
 
 #botao-surpresa {
   padding: 8px 16px;
+  color: white;
   background-color: #c62828;
   border: 1px solid white;
   cursor: pointer;
@@ -96,6 +97,8 @@ p{
   font-weight:500;
   font-size: 16px;
   padding-top: 24px;
+  color: white;
+
 }
 
 h2 {
