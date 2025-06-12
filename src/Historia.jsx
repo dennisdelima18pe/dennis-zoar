@@ -118,12 +118,18 @@ function Historia() {
             Math.round(carouselRef.current?.scrollLeft / 250) === index
               ? 'active'
               : ''
-          }`}
+          }` }
           key={index}
         >
           <img src={src} alt={`slide-${index}`} draggable="false" />
         </div>
       ))}
+    </div>
+    <div id='container-coracao'>
+        <div className='heart-img'>
+                  <img src={"/assets/foto-2.jpeg"} />
+        </div>
+      
     </div>
     <p> 
       Compartilhando moomentos há
